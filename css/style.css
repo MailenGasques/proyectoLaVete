@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+.container-fluid {
+  background-color: #cca6df7b;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: rgb(241, 232, 245);
+}
+
+.titulo {
+  text-align: justify;
+  font-size: 5rem;
+  font-weight: 200;
+  color: rgb(0, 0, 0);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.section {
+  padding: 2rem;
+  padding-top: 4rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  max-width: 1200px;
+  text-align: center;
+}
+.card {
+  margin-bottom: 20px;
+}
+
+.card-filter {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+#mdhistoria {
+  resize: vertical; 
+  min-height: 150px; 
+}
+
+.tituloOpiniones{
+  background-color: #cca6df5b;
+  color: #000000fb;
+}
